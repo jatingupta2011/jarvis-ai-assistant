@@ -1,3 +1,8 @@
-flask
+SpeechRecognition
+pyttsx3
 openai
+pyaudio
+wikipedia
+pywhatkit
+requests
 python-dotenv
